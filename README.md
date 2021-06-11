@@ -3,7 +3,7 @@
 - 💻   **I'm a Student Develover**   
  <br/>
  
-- 📒  **yeonwoo1125's blog ...**   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://yeonwoo1125.tistory.com/)](https://fomaios.tistory.com/)
+- 📒  **yeonwoo1125's blog ...**   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://yeonwoo1125.tistory.com/)](https://yeonwoo1125.tistory.com/)
 <br/>
 <br/>
 
