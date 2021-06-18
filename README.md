@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&hide=stars,contribs,prs&show_icons=true&theme=cobalt)
+ [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125)] 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125&layout=compacttheme=cobalt)](https://github.com/yeonwoo1125)
 
 
