@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
- ![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125)
+ ![yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&hide=contribs,prs,issues,stars)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125)
 
 
