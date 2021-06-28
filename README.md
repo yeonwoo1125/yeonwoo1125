@@ -7,7 +7,7 @@
 <br/>
 
 
- ![yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&hide=prs,contributeissues,stars)
+ ![yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&hide=prs,contribute,issues,stars)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125)
 
 
