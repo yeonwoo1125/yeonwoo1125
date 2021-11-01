@@ -10,10 +10,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 
-
+<p align="center">
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=facebook.com/yeonwoo1125)](https://www.facebook.com/yeonwoo1125)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeanwoo0619@gmail.com)](mailto:yeanwoo0619@gmail.com)
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://yeonwoo1125.tistory.com/)](https://yeonwoo1125.tistory.com/)
+ <a href="https://www.instagram.com/yw_go/">
+<img src="http://img.shields.io/badge/-yw_go-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yw_go/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 <br/>
 
 
@@ -21,7 +25,4 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125)
 
 
-<a href="https://www.instagram.com/yw_go/">
-    <img src="http://img.shields.io/badge/-yw_go-222222?style=flat&logo=Instagram&link=https://www.instagram.com/yw_go/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
