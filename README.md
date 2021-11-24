@@ -43,7 +43,7 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yeonwoo1125&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeonwoo1125&theme=vue)
 </p>
 
 <hr>
