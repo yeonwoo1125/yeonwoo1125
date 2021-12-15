@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome!;Nice+to+meet+you!;&center=true&size=30">
@@ -5,7 +6,7 @@
 </h1>
 
 
-<h2 align="center">Hi, I'm YeonWoo Ga!</h2>
+
  <p align="center">
  <a href="https://facebook.com/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/yw_go_/" target="_blank"><img src="http://img.shields.io/badge/-Instargram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
