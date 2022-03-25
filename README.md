@@ -25,6 +25,11 @@
  <a href="https://facebook.com/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/yw_go_/" target="_blank"><img src="http://img.shields.io/badge/-Instargram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <a href="yeanwoo0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://velog.io/@yeanwoo0619">
+    <img 
+        src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@yeanwoo0619"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
   <br><br>
 <div align=center>
   <br>   
