@@ -34,7 +34,7 @@
 <div align=center>
   <br>   
   
-  ![Yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&show_icons=true&theme=default&layout=compact)
+  ![Yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&theme=default&layout=compact&hide=stars)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125&layout=compact&langs_count=6")](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
