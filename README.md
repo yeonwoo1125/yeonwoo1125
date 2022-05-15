@@ -28,7 +28,7 @@
   
 <div align=center>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://velog.io/@yeonwoo1125)
 </div>  
   <br><br>
 <div align=center>
