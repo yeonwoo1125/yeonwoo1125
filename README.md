@@ -29,22 +29,11 @@
 <div align=center>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://velog.io/@yeonwoo1125)
+   ![Yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&theme=default&layout=compact&hide=stars,issues&count_private=true)
 </div>  
-  <br><br>
 <div align=center>
   
-  ![Yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&theme=default&layout=compact&hide=stars,issues&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125&layout=compact&langs_count=6")](https://github.com/anuraghazra/github-readme-stats)
+ 
 </div>
 
-  <br>  <br>  
-<div align=center>
-  <br>   
-  
-  <h2 align="center">⚡ BaekJoon ⚡</h2>
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeanwoo0619)](https://solved.ac/yeanwoo0619)
-  <img src="http://mazandi.herokuapp.com/api?handle=yeanwoo0619&theme=cold"/>
-  <br><br>
-  <br>
 </div>
