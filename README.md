@@ -20,7 +20,7 @@
 <p align="center">
  <a href="https://facebook.com/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/yw_go_/" target="_blank"><img src="http://img.shields.io/badge/-Instargram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="www.linkedin.com/in/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://velog.io/@yeonwoo1125">
     <img 
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@yeonwoo1125"
