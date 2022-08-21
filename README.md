@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeonwoo&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&section=header&text=Hello~&fontSize=55&theme=gruvbox_light)
 
 <h2 align="center">⚡ Stats ⚡</h2>
  <p align="center">
@@ -28,9 +28,10 @@
   
 <div align=center>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://velog.io/@yeonwoo1125)
-   ![Yeonwoo1125's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonwoo1125&theme=default&layout=compact&hide=stars,issues&count_private=true)
-</div>  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://velog.io/@yeonwoo1125) 
+  <br><br>
+   | <a href="https://github.com/yeonwoo1125/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeonwoo1125&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="yeonwoo1125's github stats" /></a> | <a href="https://github.com/yeonwoo1125/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
 <div align=center>
   
  
