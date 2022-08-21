@@ -33,7 +33,7 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://velog.io/@yeonwoo1125)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonwoo1125)](https://github.com/eungyeole/velog-readme-stats)
 </div>
 
 <br><br>
