@@ -20,7 +20,7 @@
 <p align="center">
  <a href="https://facebook.com/yeonwoo1125" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/yw_go_/" target="_blank"><img src="http://img.shields.io/badge/-Instargram-E4405F?style=flat&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
-<a href="yeanwoo0619@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%9A%B0-%EC%97%B0-8b6b86248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://velog.io/@yeonwoo1125">
     <img 
         src="http://img.shields.io/badge/-Velog-00aaa7?style=flat&logo=Vector Logo Zone&link=https://velog.io/@yeonwoo1125"
@@ -43,3 +43,4 @@
    | <a href="https://github.com/yeonwoo1125/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeonwoo1125&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="yeonwoo1125's github stats" /></a> | <a href="https://github.com/yeonwoo1125/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonwoo1125&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 </div>
+              
