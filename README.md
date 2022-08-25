@@ -11,7 +11,7 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
 
-<h3 align="center">🪄 Learning.. 🪄</h3>
+<h3 align="center"> Learning.. </h3>
 <p align="center">
   <code><img title="Nodejs" height="25" src="images/nodejs-icon-logo.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
