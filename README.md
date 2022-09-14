@@ -16,6 +16,7 @@
   <code><img title="Nodejs" height="25" src="images/nodejs-icon-logo.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-logo.png"></code>
 </p>
 <br>
 <h3 align="center">🪄 Contact 🪄</h3>
