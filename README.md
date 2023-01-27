@@ -4,9 +4,8 @@
 <p align="center">
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="Spring" height="25" src="images/spring.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Python" height="25" src="images/python-logo.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 </p>
@@ -16,7 +15,8 @@
   <code><img title="Nodejs" height="25" src="images/nodejs-icon-logo.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-logo.png"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+
 </p>
 <br>
 <h3 align="center">🪄 Contact 🪄</h3>
